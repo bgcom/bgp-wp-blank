@@ -9,13 +9,13 @@
 	</footer>
 	<?php wp_footer(); ?>
 
-	<script src="http://code.jquery.com/jquery-1.7.2.min.js" type="text/javascript"></script>
+	<script src="http://code.jquery.com/jquery-1.10.2.min.js" type="text/javascript"></script>
 	<script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/bgcom.js"></script>
 	
 	<script type="text/javascript">
 
 		  var _gaq = _gaq || [];
-		  _gaq.push(['_setAccount', 'UA-16147619-16']);
+		  _gaq.push(['_setAccount', 'UA-XXXXXX-XX']);
 		  _gaq.push(['_trackPageview']);
 		
 		  (function() {
