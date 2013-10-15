@@ -1,4 +1,4 @@
-#WP-BLANK
+#BLANK
 by [Guillaume Molter](http://guillaumemolter.me) for [B+G & Partners SA](http://bgcom.ch/)
 ##A Wordpress boilerplate theme
 
